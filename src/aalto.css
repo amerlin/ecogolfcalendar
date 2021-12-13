@@ -1,0 +1,11 @@
+button p {
+    position: absolute;
+    top: 14px;
+    font-size: 10px;
+    left: 10px;
+    color: red;
+}
+
+button.react-calendar__tile.react-calendar__month-view__days__day.aalto {
+    position: relative;
+}
